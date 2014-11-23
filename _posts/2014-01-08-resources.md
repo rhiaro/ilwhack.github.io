@@ -1,5 +1,6 @@
 ---
 title: "resources"
+fa-icon: lightbulb-o 
 bg: turquoise     
 color: black  
 ---
@@ -45,7 +46,7 @@ Marvel Comics' Open API:
 ## Sponsor Data
 
 
-Details about sponsor data and technical contacts is on [How to Win](challenges)
+Details about sponsor data and technical contacts is on [Challenges](#challenges)
 
 ## HTML & CSS
 

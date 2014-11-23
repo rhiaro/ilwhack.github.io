@@ -1,6 +1,7 @@
 ---
 title: "challenges"
-bg: purple     
+bg: orange
+fa-icon: trophy     
 color: black  
 ---
 
