@@ -33,4 +33,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  
+  darkred:   '#940a3d'
+  limegreen: '#82940a'
+  softgreen: '#0a9461'
+  darkblue:  '#240563'
