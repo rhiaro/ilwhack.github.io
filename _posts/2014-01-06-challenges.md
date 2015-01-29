@@ -21,7 +21,7 @@ You don’t need to score points in all of these, but the more you do the better
 
 ## Themes
 
-Use of the following themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas...
+Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. THis year's themes are being finalised. *Last year* the themes were:
 
 * Neighbourhoods and communities
 * Health, well-being and the environment
