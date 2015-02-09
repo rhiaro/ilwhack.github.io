@@ -34,7 +34,7 @@ Use of the particular themes will be taken into account by the people judging yo
 ## Sponsored challenges
 
 
----
+
 ### Bloomberg
 
 **Key Datasets**:
@@ -44,6 +44,7 @@ Use of the particular themes will be taken into account by the people judging yo
 **Domain Contacts**:
 
 ---
+
 ### City of Edinburgh Council
 
 
@@ -63,6 +64,7 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 **Domain Contacts**:
 
 ---
+
 ### UoE Information Services | Learning Teaching and Web
 
 
@@ -73,6 +75,7 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 **Domain Contacts**:
 
 ---
+
 ### Practical Action and the Global Development Academy
 
 
@@ -114,7 +117,7 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 ## New and Interesting Data
 
----
+
 ### BBC
 
 
