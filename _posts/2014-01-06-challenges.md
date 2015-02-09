@@ -76,7 +76,7 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 
 ---
 
-### Practical Action and the Global Development Academy
+### [Practical Action](http://practicalaction.org) and the [Global Development Academy](http://www.ed.ac.uk/schools-departments/global-development)
 
 
 #### Mapping Pro-poor Technology Innovation in Nairobi
@@ -94,15 +94,19 @@ There are many innovations in 'pro-poor' technology in developing countries, cov
 
 #### Interpreting the Scottish Household Survey
 
-What does the Scottish Household Survey tell us about the people of Scotland? How would you present this information to Scottish Government Ministers to help them make spending decisions or introduce new policies? Alternatively how would you present this information to the general public so that they can see how well the Scottish Government is meeting its aims in the National Performance Framework? Can we enrich the picture by including other data published by the Scottish Government and others?
+What does the Scottish Household Survey tell us about the people of Scotland? How would you present this information to Scottish Government Ministers to help them make spending decisions or introduce new policies? Alternatively how would you present this information to the general public so that they can see how well the Scottish Government is meeting the National Outcomes in the National Performance Framework? Can we enrich the picture by including other data published by the Scottish Government and others?
+
 
 The Scottish Household Survey collects a wealth of data about the people of Scotland, but is not disseminated as widely as it should be. The main way of making the data available is via a 212 page  report: <http://www.scotland.gov.uk/Resource/0045/00457570.pdf>
 
-**Key Datasets**: <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2012/2012-exceldownload>
+**Key Datasets**:   
 
-**Technical Contacts**:
+* Local Authority Tables Excel data: <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013>. The data behind the tables can be accessed using dropdown menus in the "LA Raw Data" worksheet, e.g., <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2012/2012-exceldownload>
+* The National Performance Framework: <http://www.scotland.gov.uk/About/Performance/purposestratobjs>
 
-**Domain Contacts**:
+**Technical Contacts**: Gregor.Boyd[AT]scotland.gsi.gov.uk
+
+**Domain Contacts**: 
 
 ---
 
