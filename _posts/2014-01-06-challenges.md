@@ -30,6 +30,13 @@ Use of the particular themes will be taken into account by the people judging yo
 * Data visualisation
 * Student experience
 
+## Special Prizes
+
+### CompSoc Best Data Mashup
+
+This is a challenge to produce the best (or silliest) thing you can by mashing together multiple different sources of data.
+
+
 
 ## Sponsored challenges
 
@@ -37,9 +44,13 @@ Use of the particular themes will be taken into account by the people judging yo
 
 ### Bloomberg
 
+#### Visualising data
+
+What's the best way of visualising at least one Bloomberg dataset, optionally in combination with some other data? 
+
 **Key Datasets**:
 
-**Technical Contacts**: Mark Wollenberg (), Mark Wood ()
+**Technical Contacts**: Mark Olleson (), Mark Wood ()
 
 **Domain Contacts**:
 
