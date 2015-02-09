@@ -7,6 +7,8 @@ color: black
 
 # Challenges
 
+[page still under construction!]
+
 ## How to win
 
 You will be judged along the following dimensions:
@@ -19,16 +21,15 @@ You will be judged along the following dimensions:
 
 You don’t need to score points in all of these, but the more you do the better you’re project is likely to be. That’s why it might be helpful to have a team of people from mixed backgrounds &mdash; programmers, designers and business people &mdash; all working together. But if you don’t have a mixed team, you can make up a shortfall in one dimension by doing really well in another.
 
-<!-- ## Themes
+## Themes
 
 Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. THis year's themes are being finalised. *Last year* the themes were:
 
 * Neighbourhoods and communities
 * Health, well-being and the environment
-* Travel and adventure
+* Data Visualisation
 * Student experience
 
--->
 
 ## Sponsored challenges
 
@@ -69,6 +70,7 @@ The Council maintains a large number of social media accounts (Twitter and Faceb
 
 **Domain Contacts**:
 
+
 ### Practical Action and the Global Development Academy
 ---
 
@@ -80,6 +82,7 @@ There are many innovations in 'pro-poor' technology in developing countries, cov
 **Technical Contacts**:
 
 **Domain Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk)
+
 
 ### Scottish Government Analytical Services
 ---
