@@ -32,14 +32,6 @@ Use of the particular themes will be taken into account by the people judging yo
 
 ## Sponsored challenges
 
-### BBC
----
-
-**Key Datasets**:
-
-**Technical Contacts**: 
-
-**Domain Contacts**:
 
 
 ### Bloomberg
@@ -54,9 +46,17 @@ Use of the particular themes will be taken into account by the people judging yo
 ### City of Edinburgh Council
 ---
 
+#### What do you think of the Council?
+
+The Council maintains a large number of social media accounts (Twitter and Facebook). Can we use text analytic techniques (such as sentiment detection) over data from these accounts to build a picture of what are hot topics? Most interesting are likely to be Corporate accounts, Libraries, Transport and Neighbourhoods.
+
+### A civic dashboard for Edinburgh
+
+
+
 **Key Datasets**:
 
-**Technical Contacts**: Sally Kerr ()
+**Technical Contacts**: Sally Kerr (Sally.Kerr[AT]edinburgh.gov.uk)
 
 **Domain Contacts**:
 
@@ -98,5 +98,21 @@ There are many innovations in 'pro-poor' technology in developing countries, cov
 **Technical Contacts**:
 
 **Domain Contacts**:
+
+## New and Interesting Data
+
+### BBC
+---
+
+The BBC News Labs Juicer API let you run queries on content from an increasing list of over news sources which includes BBC News but also other publications like Sky News, The Guardian, The Mirror, The Independent, The Daily Record, The Huffington Post and other media. It also includes content from other sources, including the BBC News and BBC Parliament TV channels and MP's Twitter accounts.
+
+The majority of content is in the form of articles from news organisations but there are also images, video and tweets from select sources.
+
+**Key Datasets**: <https://www.npmjs.com/package/newsquery>
+
+**Technical Contacts**: 
+
+**Domain Contacts**:
+
 
 
