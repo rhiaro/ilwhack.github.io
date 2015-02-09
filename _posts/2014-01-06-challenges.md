@@ -84,9 +84,9 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 There are many innovations in 'pro-poor' technology in developing countries, covering topics like energy, waste, transport and information communication technology. Can we use data from social media and news media to build a picture of such innovations in and around Nairobi, Kenya? And how can we present this data in an informative and scalable manner?
 **Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
 
-**Technical Contacts**:
+**Technical Contacts**: 
 
-**Domain Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk)
+**Domain Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey
 
 ---
 
@@ -112,10 +112,14 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 ### Thomson-Reuters
 
+Extract quotations and attribute them to people. Which people talk about the same topic, and if we push it further, who agrees with whom on a specific topic? 
+* Visualise the topics / entities in a corpus
+* Experiment with shifts in topics over time.
+
 
 **Key Datasets**:
 
-**Technical Contacts**:
+**Technical Contacts**: Chris Blatchford (chris.blatchford[AT]thomsonreuters.com)
 
 **Domain Contacts**:
 
