@@ -15,7 +15,7 @@ You will be judged along the following dimensions:
 * Novelty (how original is your idea?)
 * Execution (how well does your project function and do what it should?)
 * Design (how visually appealing / user friendly is your project?)
-* Sustainability (do you have a credible business plan for making your project sustainable?)
+* Sustainability (do you have a credible plan for making your project sustainable?)
 * Teamwork (how well did you work together and distribute tasks?)
 
 You don’t need to score points in all of these, but the more you do the better you’re project is likely to be. That’s why it might be helpful to have a team of people from mixed backgrounds &mdash; programmers, designers and business people &mdash; all working together. But if you don’t have a mixed team, you can make up a shortfall in one dimension by doing really well in another.
@@ -148,9 +148,10 @@ Newswire text contains an abundance of information. Can you help make sense of i
 
 #### Who should you vote for in May?
 
-With the upheaval in politics, and especially in Scotland following the referendum, voters at [the upcoming General Election](http://www.parliament.uk/about/how/elections-and-voting/general/general-election-timetable-2015/) are faced with a bewildering amount of claims and information to wade through. What tools can you provide that will help voters reach a decision about who to vote for?
+With the upheaval in politics, and especially in Scotland following the referendum, voters at [the upcoming General Election](http://www.parliament.uk/about/how/elections-and-voting/general/general-election-timetable-2015/) are faced with a bewildering amount of claims and information to wade through. What tools can you provide that will help voters reach a decision about who to vote for? The Democracy club has [collected some great ideas](https://github.com/DemocracyClub/Election/blob/master/IDEAS.mkd), and there's plenty of scope for experimentation.
 
-**Key Datasets**: <https://yournextmp.com/help/api>
+**Key Datasets**: <https://yournextmp.com/help/api>. <http://mapit.mysociety.org/>, <http://meetyournextmp.com/>
+
 
 **Technical Contacts**: [Democracy Club mailing list](https://groups.google.com/forum/#!forum/democracy-club), James Baster (james[AT]jarofgreen.co.uk)
 
