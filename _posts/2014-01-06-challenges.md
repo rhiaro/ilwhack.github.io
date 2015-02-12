@@ -59,7 +59,7 @@ What's the best way of visualising at least one Bloomberg dataset, optionally in
 ### City of Edinburgh Council
 
 
-#### What do you think of the Council?
+#### What is the social media impact of the Council?
 
 The Council maintains a large number of social media accounts (Twitter and Facebook). Can we use text analytic techniques (such as sentiment detection) over data from these accounts to build a picture of what are hot topics? Most interesting are likely to be Corporate accounts, Libraries, Transport and Neighbourhoods.
 
