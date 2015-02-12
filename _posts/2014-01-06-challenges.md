@@ -141,6 +141,7 @@ Newswire text contains an abundance of information. Can you help make sense of i
 
 **Technical Contact**: Chris Blatchford (chris.blatchford[AT]thomsonreuters.com)
 
+---
 
 ### [Democracy Club](https://democracyclub.org.uk)
 
