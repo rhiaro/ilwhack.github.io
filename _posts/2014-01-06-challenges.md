@@ -51,8 +51,7 @@ What's the best way of visualising at least one Bloomberg dataset, optionally in
 
 **Key Datasets**:
 
-**Technical Contacts**: Mark Olleson (), Mark Wood ()
-
+**Technical Contacts**: Mark Olleson (molleson[AT]bloomberg.net)
 
 
 ---
