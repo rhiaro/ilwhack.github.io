@@ -151,7 +151,7 @@ With the upheaval in politics, and especially in Scotland following the referend
 
 **Key Datasets**: <https://yournextmp.com/help/api>
 
-**Technical Contacts**: James Baster (james[AT]jarofgreen.co.uk)
+**Technical Contacts**: [Democracy Club mailing list](https://groups.google.com/forum/#!forum/democracy-club), James Baster (james[AT]jarofgreen.co.uk)
 
 ---
 
