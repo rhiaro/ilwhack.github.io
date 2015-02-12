@@ -52,7 +52,7 @@ What's the best way of visualising at least one Bloomberg dataset, optionally in
 
 **Technical Contacts**: Mark Olleson (), Mark Wood ()
 
-**Domain Contacts**:
+
 
 ---
 
@@ -72,18 +72,23 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 
 **Technical Contacts**: Sally Kerr (Sally.Kerr[AT]edinburgh.gov.uk)
 
-**Domain Contacts**:
+
 
 ---
 
 ### UoE Information Services | Learning Teaching and Web
 
+#### How can me make MyEd more useful?
 
-**Key Datasets**:
+MyEd can get up to 100,000 logins per day, including up to 20,000 from mobile devices.  Can we combine existing datasets with user attributes to provide useful new features in MyEd?  There are particular opportunities around location data, and combining this with other information sources.
 
-**Technical Contacts**: Martin Morrey
+The first mobile-friendly version of MyEd was released in October 2014, more than doubling the number of users accessing MyEd on mobile devices.  IS aims to continually improve the value of MyEd, especially on mobiles, and is starting to open-up data and APIs that are relevant to this challenge.
 
-**Domain Contacts**:
+
+**Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
+
+**Technical Contact**: Martin Morrey
+
 
 ---
 
@@ -123,16 +128,32 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 ### Thomson-Reuters
 
-Extract quotations and attribute them to people. Which people talk about the same topic, and if we push it further, who agrees with whom on a specific topic? 
-* Visualise the topics / entities in a corpus
-* Experiment with shifts in topics over time.
+#### Tracing topics in news stories
+
+Newswire text contains an abundance of information. Can you help make sense of it? Here are a few specific ideas:
+
+* Extract quotations and attribute them to people. Which people talk about the same topic? Who agrees with whom on a specific topic? 
+* Can you visualise the topics in a corpus?
+* How do topics shift over time?
 
 
-**Key Datasets**:
+**Key Datasets**: 
 
-**Technical Contacts**: Chris Blatchford (chris.blatchford[AT]thomsonreuters.com)
+**Technical Contact**: Chris Blatchford (chris.blatchford[AT]thomsonreuters.com)
 
-**Domain Contacts**:
+
+### [Democracy Club](https://democracyclub.org.uk)
+
+#### Who should you vote for in May?
+
+With the upheaval in politics, and especially in Scotland following the referendum, voters at [the upcoming General Election](http://www.parliament.uk/about/how/elections-and-voting/general/general-election-timetable-2015/) are faced with a bewildering amount of claims and information to wade through. What tools can you provide that will help voters reach a decision about who to vote for?
+
+**Key Datasets**: <https://yournextmp.com/help/api>
+
+**Technical Contacts**: James Baster (james[AT]jarofgreen.co.uk)
+
+
+
 
 ## New and Interesting Data
 
