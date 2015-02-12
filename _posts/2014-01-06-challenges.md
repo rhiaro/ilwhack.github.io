@@ -49,9 +49,9 @@ Nominate a person that was most helpful in assisting others in resolving issues!
 
 What's the best way of visualising at least one Bloomberg dataset, optionally in combination with some other data? 
 
-**Key Datasets**:
+**Key Datasets**: API details will be provided
 
-**Technical Contacts**: Mark Olleson (molleson[AT]bloomberg.net)
+**Contact**: Mark Olleson (molleson[AT]bloomberg.net)
 
 
 ---
@@ -70,7 +70,7 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
 
 **Key Datasets**:
 
-**Technical Contacts**: Sally Kerr (Sally.Kerr[AT]edinburgh.gov.uk)
+**Contacts**: Sally Kerr (Sally.Kerr[AT]edinburgh.gov.uk)
 
 
 
@@ -87,7 +87,7 @@ The first mobile-friendly version of MyEd was released in October 2014, more tha
 
 **Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
 
-**Technical Contact**: Martin Morrey
+**Contact**: Martin Morrey
 
 
 ---
@@ -100,9 +100,7 @@ The first mobile-friendly version of MyEd was released in October 2014, more tha
 There are many innovations in 'pro-poor' technology in developing countries, covering topics like energy, waste, transport and information communication technology. Can we use data from social media and news media to build a picture of such innovations in and around Nairobi, Kenya? And how can we present this data in an informative and scalable manner?
 **Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
 
-**Technical Contacts**: 
-
-**Domain Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey
+**Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey
 
 ---
 
@@ -120,9 +118,8 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 * Local Authority Tables Excel data: <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013>. The data behind the tables can be accessed using dropdown menus in the "LA Raw Data" worksheet, e.g., <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013/2013-exceldownload>
 * The National Performance Framework: <http://www.scotland.gov.uk/About/Performance/purposestratobjs>
 
-**Technical Contacts**: Gregor.Boyd[AT]scotland.gsi.gov.uk
+**Contact**: Gregor.Boyd[AT]scotland.gsi.gov.uk
 
-**Domain Contacts**: 
 
 ---
 
@@ -170,9 +167,7 @@ The majority of content is in the form of articles from news organisations but t
 
 **Key Datasets**: <https://www.npmjs.com/package/newsquery>
 
-**Technical Contacts**: 
-
-**Domain Contacts**:
+**Contacts**: 
 
 
 
