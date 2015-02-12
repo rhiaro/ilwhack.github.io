@@ -41,7 +41,7 @@ Nominate a person that was most helpful in assisting others in resolving issues!
 
 ## Sponsored challenges
 
-
+---
 
 ### Bloomberg
 
@@ -118,7 +118,7 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 **Key Datasets**:   
 
-* Local Authority Tables Excel data: <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013>. The data behind the tables can be accessed using dropdown menus in the "LA Raw Data" worksheet, e.g., <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2012/2012-exceldownload>
+* Local Authority Tables Excel data: <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013>. The data behind the tables can be accessed using dropdown menus in the "LA Raw Data" worksheet, e.g., <http://www.scotland.gov.uk/Topics/Statistics/16002/LATables-2013/2013-exceldownload>
 * The National Performance Framework: <http://www.scotland.gov.uk/About/Performance/purposestratobjs>
 
 **Technical Contacts**: Gregor.Boyd[AT]scotland.gsi.gov.uk
