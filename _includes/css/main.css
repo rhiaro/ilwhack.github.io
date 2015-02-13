@@ -369,8 +369,8 @@ nav ul li:hover, nav ul li.active {
     vertical-align: middle;
 }
 
-#sponsors .sectiondivider {
-    color: #240563 !important;
+#sponsors {
+    background-color: #EEE !important;
 }
 
 #sponsors a {
