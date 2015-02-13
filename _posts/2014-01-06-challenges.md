@@ -47,12 +47,13 @@ Nominate a person that was most helpful in assisting others in resolving issues!
 
 #### Visualising data
 
-What's the best way of visualising at least one Bloomberg dataset, optionally in combination with some other data? 
+Using datasets from the Bloomberg API (BLPAPI), potentially with other sources, create an interesting data visualisation mashup that enables users to view data in a unique or novel way.
 
-**Key Datasets**: API details will be provided
+The BLPAPI interface powers global market data distribution to desktops, workgroups and enterprise applications and is used daily by more than 100,000 Bloomberg customers. The BLPAPI provides both live and historical data.
 
-**Contact**: Mark Olleson (molleson[AT]bloomberg.net)
+**Key Datasets:** []http://www.bloomberglabs.com/api/
 
+**Contact:** Bloomberg Edinburgh Smart Data Hack team (edsdhack@bloomberg.net)
 
 ---
 
@@ -98,7 +99,9 @@ The first mobile-friendly version of MyEd was released in October 2014, more tha
 #### Mapping Pro-poor Technology Innovation in Nairobi
 
 There are many innovations in 'pro-poor' technology in developing countries, covering topics like energy, waste, transport and information communication technology. Can we use data from social media and news media to build a picture of such innovations in and around Nairobi, Kenya? And how can we present this data in an informative and scalable manner?
-**Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
+
+
+**Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
 
 **Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey
 
