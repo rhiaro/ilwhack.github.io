@@ -14,7 +14,7 @@ You will be judged along the following dimensions:
 
 * Novelty (how original is your idea?)
 * Execution (how well does your project function and do what it should?)
-* Design (how visually appealing / user friendly is your project?)
+* Design (how well does your project address and satisfy real user needs?)
 * Sustainability (do you have a credible plan for making your project sustainable?)
 * Teamwork (how well did you work together and distribute tasks?)
 
@@ -22,12 +22,13 @@ You don’t need to score points in all of these, but the more you do the better
 
 ## Themes
 
-Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. THis year's Themes are being finalised, but are likely to include:
+Use of the particular themes will be taken into account by the people judging your project, so you might have more chance of winning a prize if you work on something in one or more of these areas. This year's themes are (subject to revision):
 
-* Communities and civic engagement
-* Making sense of news and social media
-* Data visualisation
-* Student experience
+* Communities, civic engagement, and international development <!-- SG, CEC, Practical Action-->
+* Making sense of news and social media <!-- Bloomberg, Thomson-Reuters, CEC-->
+<!-- * Travel and adventure Skyscanner-->
+* Data visualisation <!-- Bloomberg-->
+* Student experience <!-- IS -->
 
 ## Special Prizes
 
@@ -51,9 +52,9 @@ Using datasets from the Bloomberg API (BLPAPI), potentially with other sources, 
 
 The BLPAPI interface powers global market data distribution to desktops, workgroups and enterprise applications and is used daily by more than 100,000 Bloomberg customers. The BLPAPI provides both live and historical data.
 
-**Key Datasets:** []http://www.bloomberglabs.com/api/
+**Key Datasets:** [Bloomberg Labs API]http://www.bloomberglabs.com/api/ (API keys will be supplied)
 
-**Contact:** Bloomberg Edinburgh Smart Data Hack team (edsdhack@bloomberg.net)
+**Contact:** Bloomberg Edinburgh Smart Data Hack team (edsdhack[AT]bloomberg.net)
 
 ---
 
@@ -68,10 +69,10 @@ The Council maintains a large number of social media accounts (Twitter and Faceb
 
 A civic data dashboard is a way of aggregating data about an adminstrative area and presenting it in a useful, engaging and informative manner for residents. Can we build one for Edinburgh? 
 
+**Key Datasets**: <http://data.inf.ed.ac.uk/dataset/city-of-edinburgh-council-social-media-accounts>, [Edinburgh by Numbers](http://www.edinburgh.gov.uk/info/20205/performance_and_statistics/1012/edinburgh_by_numbers)
 
-**Key Datasets**:
 
-**Contacts**: Sally Kerr (Sally.Kerr[AT]edinburgh.gov.uk)
+**Contacts**: Open data team at City of Edinburgh Council (opendata[AT]edinburgh.gov.uk)
 
 
 
@@ -88,7 +89,7 @@ The first mobile-friendly version of MyEd was released in October 2014, more tha
 
 **Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
 
-**Contact**: Martin Morrey
+**Contact**: Martin Morrey (martin.morrey[AT]ed.ac.uk)
 
 
 ---
