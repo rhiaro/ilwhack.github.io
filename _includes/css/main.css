@@ -376,3 +376,15 @@ nav ul li:hover, nav ul li.active {
 #sponsors a {
     text-decoration: none;
 }
+
+
+/** Shrink screenshots in Teams **/
+
+#teams img {
+    max-width: 33% !important;
+}
+
+#teams p {
+    display: inline-block;
+    width: auto;
+}
