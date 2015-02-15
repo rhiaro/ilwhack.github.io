@@ -86,10 +86,26 @@ MyEd can get up to 100,000 logins per day, including up to 20,000 from mobile de
 
 The first mobile-friendly version of MyEd was released in October 2014, more than doubling the number of users accessing MyEd on mobile devices.  IS aims to continually improve the value of MyEd, especially on mobiles, and is starting to open-up data and APIs that are relevant to this challenge.
 
+#### How can we make the data collected in the Learn VLE more useful to staff & students?
+
+The Learn virtual learning environment (VLE) collects data on interactions within the application. This data is used by system administrators to answer support queries, and improve the service; and by staff to inform and support their teaching activities within courses. Currently the majority of this data is not visible at all to students, and the presentation of data to staff is quite basic. We believe that some of this data could potentially be more useful to students and staff in a variety of ways.
+
+- Can we this data be used to help students individually understand more about their own learning behaviours and performance relative to their peers?
+- Is this data of use to staff to better understand how students are interacting with their courses?
+- Can we visualise this information to maximise its benefit and impact?
+
+Other questions that go beyond the scope of the VLE, might be
+
+- How could a school use this information to benefit learning and teaching?
+- Could this data be combined with other data sets at the University to analyse student behaviours and help in planning?
+
+Potentially this data can contain sensitive information on individuals performance and behaviour. What concerns do students have around privacy and anonymity of this type of information?
+
+There are currently projects running within IS to look at potential displays of similar information to staff and students
 
 **Key Datasets**: See <https://www.wiki.ed.ac.uk/x/yAsFDw> (requires EASE authentication)
 
-**Contact**: Martin Morrey (martin.morrey[AT]ed.ac.uk)
+**Contacts**: Martin Morrey (martin.morrey[AT]ed.ac.uk), Stephannie Hay (stephannie.hay[AT]ed.ac.uk)
 
 
 ---
