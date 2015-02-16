@@ -174,7 +174,15 @@ With the upheaval in politics, and especially in Scotland following the referend
 
 ---
 
+### Skyscanner
 
+### Mobile-first social travel solution
+
+There are a lot of problems left to be solved in the area of group travel. How can groups be coordinated? Most travel search facilities are geared towards people booking completely separately or on exactly the same ticket.
+
+**Key Datasets**: Skyscanner APIs (API keys available from organisers - email ilw-hack@inf.ed.ac.uk). [Documentation](http://business.skyscanner.net)
+
+**Technical Contacts**: Duncan Gauld (apienquiries@skyscanner.net)
 
 ## New and Interesting Data
 
