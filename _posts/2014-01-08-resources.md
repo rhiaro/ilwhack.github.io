@@ -9,6 +9,8 @@ color: black
 
 ## Monday morning presentations
 
+* [Smart Data Hack intro](https://docs.google.com/presentation/d/1G6nexT_xVGynXASs2PmSJdrmIkm1Gz8DVNQrzbzJxlw/edit?usp=sharing)
+* [Skyscanner](https://drive.google.com/file/d/0Bw3KJG_LKZNbN0FORkhpTVFudVg2U005Mk9Sc0kyWFF5MmEw/view?usp=sharing)
 * [Information Services / Learn](https://docs.google.com/presentation/d/1Jq9h8WEs-xye6WmWV4ZWd1Kn6p0oTrDdROosshtT6lI/edit#slide=id.p4)
 
 
