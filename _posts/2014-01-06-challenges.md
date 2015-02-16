@@ -26,7 +26,7 @@ Use of the particular themes will be taken into account by the people judging yo
 
 * Communities, civic engagement, and international development <!-- SG, CEC, Practical Action-->
 * Making sense of news and social media <!-- Bloomberg, Thomson-Reuters, CEC-->
-<!-- * Travel and adventure Skyscanner-->
+* Travel and adventure <!-- Skyscanner-->
 * Data visualisation <!-- Bloomberg-->
 * Student experience <!-- IS -->
 
@@ -38,7 +38,7 @@ This is a challenge to produce the best (or silliest) thing you can by mashing t
 
 ### Hoppers 'Most Helpful' Prize
 
-Nominate a person that was most helpful in assisting others in resolving issues!
+Nominate a person who was most helpful in assisting others in resolving issues!
 
 ## Sponsored challenges
 
