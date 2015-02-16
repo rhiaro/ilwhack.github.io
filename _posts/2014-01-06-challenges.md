@@ -162,10 +162,14 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 The underlying theme is to try and extract value from data and in particular leverage any implicit links to create a navigable graph of interesting connections.
 
-* Extract quotations and attribute them to people. What are the topics discussed? Which people talk about the same topic? Who initiates a topic and who agrees with them? We are looking for all sorts of interesting links among people and topics.
-* Visualise the topics / entities in a corpus. This can be an extension of the above. Ability to focus on topics, people, organisations and/or a temporal snapshot of the corpus.
-* Experiment with shifts in topics over time. How are topics emerge and evolve, who are the main entities involved and how does this change over time.
-* Can we use open data to enrich the entities discovered in the corpus and extract relationships amongst them?
+* People & Their Quotes
+  * Your challenge is to write a computer program to carry out two tasks: firstly, to extract quotations from documents, and secondly, to attribute each quote to the people who said it. This is valuable because it allows us to keep track of who said what. In the news, sometimes people get quoted incorrectly, and ideas morph and spread at the same time (also known as "memes"). So there are many additional research questions that can be explored, such as: What are the topics discussed? Which people talk about the same topic? Who initiates a topic and who agrees with them? We are looking for all sorts of interesting links among people and topics.
+* Evolving Topics
+  * Your challenge is to write a computer program to detect the main trending topic in a week, and how they change over time. A topic can be seen as a phrase in the headlines that keeps re-occurring more often than you would expect statistically speaking. The benefit of this experiment is that it shows how topics rise and fall in the media over time. This opens up further research into research question such as: How long do topics trend on average? What kind of people are mentioned in the media as trending topics? And how can trending topics be categorized in groups (e.g. "business", "world affairs")?
+* Visualise the Topics
+  * Your task is to write a computer program that visualizes the topics and named entities in a corpus of news in original ways. Select interesting ways to visualize ahead of any programming. Use paper & pen drawings to create a vision and then choose the right tool to realize that vision (e.g. D3, Processing) to visualize topics, people, organizations and/or temporal trends in the data. Visualization is valuable because they are powerful tools to start a conversation about what is contained in a data set. This opens up research questions like: How could the visualization be turned into an animated film?
+* Finding Links
+  * Your task is to write a computer program that tags the name of people mentioned in the news, and find how they are related with each other (e.g. "spouse of", "business partner of"). The resulting information can be output as "triples" (NAME1 RELATION NAME2), which forms the basis of knowledge graphs such as YAGO or Freebase, built with the ultimate goal of building a ”Semantic Web”.This opens up research questions like: Who can the results be visualized and queried?
 
 
 **Key Datasets**: 
