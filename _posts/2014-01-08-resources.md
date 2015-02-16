@@ -12,6 +12,8 @@ color: black
 * [Smart Data Hack intro](https://docs.google.com/presentation/d/1G6nexT_xVGynXASs2PmSJdrmIkm1Gz8DVNQrzbzJxlw/edit?usp=sharing)
 * [Skyscanner](https://drive.google.com/file/d/0Bw3KJG_LKZNbN0FORkhpTVFudVg2U005Mk9Sc0kyWFF5MmEw/view?usp=sharing)
 * [Information Services / Learn](https://docs.google.com/presentation/d/1Jq9h8WEs-xye6WmWV4ZWd1Kn6p0oTrDdROosshtT6lI/edit#slide=id.p4)
+* [Bloomberg](https://drive.google.com/file/d/0Bw3KJG_LKZNbN0FORkhpTVFudVg2U005Mk9Sc0kyWFF5MmEw/view?usp=sharing)
+* [Add teams with Github](https://docs.google.com/presentation/d/1SYtJYotSCgou0bCyjRBv4av3byYJeOZ0XrVKhiZ-6QI/edit?usp=sharing)
 
 
 ## Geo Stuff
