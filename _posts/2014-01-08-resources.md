@@ -54,6 +54,11 @@ Ewan Klein's open data resources:
 Marvel Comics' Open API:
 [http://developer.marvel.com/](http://developer.marvel.com/)
 
+### PATH course data:
+Data is being made available at <http://data.inf.ed.ac.uk/path>.
+Currently only the courses resource is available (<http://data.inf.ed.ac.uk/path/courses.json>).
+
+The API is very unstable - please contact [Hayden Ball](mailto:s1202640@sms.ed.ac.uk) for more information.
 
 ## Sponsor Data
 
