@@ -52,7 +52,7 @@ Using datasets from the Bloomberg API (BLPAPI), potentially with other sources, 
 
 The BLPAPI interface powers global market data distribution to desktops, workgroups and enterprise applications and is used daily by more than 100,000 Bloomberg customers. The BLPAPI provides both live and historical data.
 
-**Key Datasets:** [Bloomberg Labs API]http://www.bloomberglabs.com/api/ (API keys will be supplied)
+**Key Datasets:** [Bloomberg Labs API](http://www.bloomberglabs.com/api/) (API keys will be supplied)
 
 **Contact:** Bloomberg Edinburgh Smart Data Hack team (edsdhack[AT]bloomberg.net)
 
