@@ -80,7 +80,12 @@ A civic data dashboard is a way of aggregating data about an adminstrative area 
   * With geo - http://edinburgh-collected.herokuapp.com/memories/:id.geojson (where :id is the id of the memory, i.e. http://edinburgh-collected.herokuapp.com/memories/1.json)
 
 
-**Contacts**: Open data team at City of Edinburgh Council (opendata[AT]edinburgh.gov.uk)
+**Contacts**: 
+
+* Open data team at City of Edinburgh Council (opendata[AT]edinburgh.gov.uk)
+* Sally Kerr, [@WeeBletherer](http://twitter.com/weebletherer), sally.kerr@edinburgh.gov.uk
+* Neville Stokes, [@nevstokes](http://twitter.com/nevstokes), neville.stokes@edinburgh.gov.uk
+* Alan Gardner, [@mr_urf](http://twitter.com/mr_urf), alan@armoin.com 
 
 
 
