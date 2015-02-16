@@ -7,6 +7,10 @@ color: black
 
 # Resources
 
+## Monday morning presentations
+
+* [Information Services / Learn](https://docs.google.com/presentation/d/1Jq9h8WEs-xye6WmWV4ZWd1Kn6p0oTrDdROosshtT6lI/edit#slide=id.p4)
+
 
 ## Geo Stuff
 
