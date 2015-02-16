@@ -26,6 +26,11 @@ color: black
 
 [William Mackaness slides on cartograms](http://ewan-klein.github.io/ilwhack/cartograms.pdf)
 
+## Usability
+
+* [UoE Balsamiq Plugin Sandbox](http://bit.ly/ilw-balsamiq)
+* **Contact**: Duncan MacGruer (duncan.macgruer[AT]ed.ac.uk), @donutsmacgruer
+
 
 ## Sentiment Analysis
 
