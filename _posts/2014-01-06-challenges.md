@@ -147,11 +147,12 @@ The Scottish Household Survey collects a wealth of data about the people of Scot
 
 #### Tracing topics in news stories
 
-Newswire text contains an abundance of information. Can you help make sense of it? Here are a few specific ideas:
+The underlying theme is to try and extract value from data and in particular leverage any implicit links to create a navigable graph of interesting connections.
 
-* Extract quotations and attribute them to people. Which people talk about the same topic? Who agrees with whom on a specific topic? 
-* Can you visualise the topics in a corpus?
-* How do topics shift over time?
+* Extract quotations and attribute them to people. What are the topics discussed? Which people talk about the same topic? Who initiates a topic and who agrees with them? We are looking for all sorts of interesting links among people and topics.
+* Visualise the topics / entities in a corpus. This can be an extension of the above. Ability to focus on topics, people, organisations and/or a temporal snapshot of the corpus.
+* Experiment with shifts in topics over time. How are topics emerge and evolve, who are the main entities involved and how does this change over time.
+* Can we use open data to enrich the entities discovered in the corpus and extract relationships amongst them?
 
 
 **Key Datasets**: 
