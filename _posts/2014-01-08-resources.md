@@ -12,7 +12,7 @@ color: black
 * [Smart Data Hack intro](https://docs.google.com/presentation/d/1G6nexT_xVGynXASs2PmSJdrmIkm1Gz8DVNQrzbzJxlw/edit?usp=sharing)
 * [Skyscanner](https://drive.google.com/file/d/0Bw3KJG_LKZNbN0FORkhpTVFudVg2U005Mk9Sc0kyWFF5MmEw/view?usp=sharing)
 * [Information Services / Learn](https://docs.google.com/presentation/d/1Jq9h8WEs-xye6WmWV4ZWd1Kn6p0oTrDdROosshtT6lI/edit#slide=id.p4)
-* [Bloomberg](https://drive.google.com/file/d/0Bw3KJG_LKZNbN0FORkhpTVFudVg2U005Mk9Sc0kyWFF5MmEw/view?usp=sharing)
+* [Bloomberg](https://drive.google.com/file/d/0Bw3KJG_LKZNbNXNuMFVtOGJDdEdVMjBIWUdreXZTclFXbVBj/view?usp=sharing)
 * [City of Edinburgh Council](https://docs.google.com/presentation/d/1dOoe_V8YRYdAbg_TDmjQyBUXg3V818Y_JDFLEcx91OU/edit?usp=sharing)
 * [Scottish Government](#)
 * [Practical Action](https://docs.google.com/presentation/d/1xRIgQvvgPTUi79OmACq4im56PDc6lRArkSg3SxP4hEg/edit?usp=sharing)
