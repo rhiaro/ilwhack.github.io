@@ -133,7 +133,7 @@ There are many innovations in 'pro-poor' technology in developing countries, cov
 
 **Key Datasets**: The team will have to find and identify appropriate APIs/data sets from social media used in Kenya and news media sources.
 
-**Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey
+**Contacts**: Jamie Cross (Jamie.Cross[AT]ed.ac.uk),  Jonny Casey (Jonathan.Casey[AT]practicalaction.org.uk, @JonnyPCasey)
 
 ---
 
